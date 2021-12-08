@@ -1,0 +1,1 @@
+web: java -jar build/libs/should_i_wash_hair_today-0.0.1-SNAPSHOT.jar
