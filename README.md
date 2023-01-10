@@ -13,5 +13,5 @@
 分別輸入 前次洗頭日期 與 洗頭頻率天數
 就能開始自動提醒囉
 
-![627367](https://user-images.githubusercontent.com/85498537/145227778-895a4fe1-325a-4859-895e-081bebba9b69.jpg)/
+![image](https://user-images.githubusercontent.com/85498537/211560601-275cb311-9bbe-4caf-a826-7d9cb7caad97.png)
 ![image](https://user-images.githubusercontent.com/85498537/211560294-130f58a6-d9c5-44c5-a8ff-815c50fab5ce.png)
