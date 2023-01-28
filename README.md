@@ -1,5 +1,10 @@
 # should_i_wash_hair_today
 
+### Programming skills:
+Java/Spring boot/PostgreSQL/AWS/Nginx/Let's Encrypt/FreeDNS
+
+---
+
 沒有習慣每天洗頭，又總是忘記今天要不要洗頭？
 
 現在就加line好友 「`今天要洗頭嗎`」，每晚10點自動提醒你
